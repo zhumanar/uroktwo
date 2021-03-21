@@ -1,3 +1,4 @@
+**************
 s="intoomr"
 n=len(s)
 print(n)
